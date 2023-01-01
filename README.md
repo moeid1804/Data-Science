@@ -1,2 +1,0 @@
-# Data-Science
-ex1
